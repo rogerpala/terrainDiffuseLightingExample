@@ -1,0 +1,30 @@
+<controls>
+    <SliderFloat_lightX>
+        <name>lightX</name>
+        <value>705.000000</value>
+    </SliderFloat_lightX>
+    <SliderFloat_lightY>
+        <name>lightY</name>
+        <value>-795.000000</value>
+    </SliderFloat_lightY>
+    <SliderFloat_lightZ>
+        <name>lightZ</name>
+        <value>884.999756</value>
+    </SliderFloat_lightZ>
+    <SliderFloat_viewX>
+        <name>viewX</name>
+        <value>-3000.000000</value>
+    </SliderFloat_viewX>
+    <SliderFloat_viewY>
+        <name>viewY</name>
+        <value>-1695.000000</value>
+    </SliderFloat_viewY>
+    <SliderFloat_viewZ>
+        <name>viewZ</name>
+        <value>-435.000000</value>
+    </SliderFloat_viewZ>
+    <Toggle_isRotatingActive>
+        <name>isRotatingActive</name>
+        <value>1</value>
+    </Toggle_isRotatingActive>
+</controls>
